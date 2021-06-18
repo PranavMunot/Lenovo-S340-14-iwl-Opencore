@@ -12,4 +12,5 @@ Opencore Lenovo S340-iwl (i5-8265u, 8GB ram, 1TB HDD, Catalina)
 2. Headphones when connected, you will get the rhythm but no vocals :( (ALT. you could use bluetooh earphones/headphone which works fine)
 3. No backlight working but added SSDT-PNLF-CFL so hope it works.
 
-Special Thanks to dortania's vanila laptop guide 
+Special Thanks to dortania's vanila laptop guide -> https://dortania.github.io/OpenCore-Install-Guide/
+This is Just Educational :)>
